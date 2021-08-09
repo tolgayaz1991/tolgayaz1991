@@ -1,7 +1,7 @@
 - Hi, I’m @tolgayaz1991
 - I’m interested in different subjects, especially Data Science,
 - I’m currently improving my Data Science skills,
-- One can examine some of my projects here,
+- Some of my projects are here for you to examine,
 - I’m looking for completing new projects.
 
 <!---
