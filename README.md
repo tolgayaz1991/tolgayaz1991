@@ -1,4 +1,3 @@
 - Hi, I’m @tolgayaz1991
 - I’m interested in different subjects, especially Web3 and Data Science,
-- Some of my projects are here to examine,
 - I’m looking for completing new projects.
